@@ -9,7 +9,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ![](../common/images/OL-page-intro.png)
 - [Introduction to Oracle Linux](./intro/intro.md): New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.   
    
-<br>
 ![](../common/images/OL-page-install.png)
 - [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process. Learn how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.   
    
