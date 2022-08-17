@@ -3,9 +3,13 @@
 ![](../common/images/OL-1200x200-banner.png)
 ---
 This track is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.  
-
+   
+---   
+      
 ![](../common/images/OL-page-intro.png)
-- [Introduction to Oracle Linux](./intro/intro.md): New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.
+- [Introduction to Oracle Linux](./intro/intro.md): New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.   
+
+![](../common/images/OL-page-install.png)
 - [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process. Learn how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
 - [Administration](./admin/admin.md): This page focuses on common administration tasks that you can perform on Oracle Linux. Learn how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, and explore the proc and sysfs file systems to view and configure system hardware and system processes.
 - [Monitoring and Logging](./mon_log/mon_log.md): This page focuses on typical monitoring and logging tasks performed on a Linux system. Learn how to monitor system performance and review system logs on Oracle Linux.
