@@ -12,13 +12,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ![](../common/images/OL-page-install.png)
 - [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process. Learn how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.   
    
-![](../common/images/OL-page-xxx.png)   
+![](../common/images/OL-page-admin.png)   
 - [Administration](./admin/admin.md): This page focuses on common administration tasks that you can perform on Oracle Linux. Learn how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, and explore the proc and sysfs file systems to view and configure system hardware and system processes.   
 
-![](../common/images/OL-page-xxxl.png)
+![](../common/images/OL-page-monitor.png)
 - [Monitoring and Logging](./mon_log/mon_log.md): This page focuses on typical monitoring and logging tasks performed on a Linux system. Learn how to monitor system performance and review system logs on Oracle Linux.   
 
-![](../common/images/OL-page-xxx.png)
+![](../common/images/OL-page-network.png)
 - [Networking](./network/network.md): This page focuses on the configuration files, firewalls, and command line utilities to get a Linux system online. Learn how to connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.   
 
 ![](../common/images/OL-page-xxx.png)
