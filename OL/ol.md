@@ -15,7 +15,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 | --------  | -------- |
 
-| data      | Some long data that <br /> spans multiple lines <br /> and more |
+| data      | Some long data that <br> spans multiple lines <br> and more |
 
 
 <table width="1400">
