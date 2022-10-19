@@ -11,10 +11,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Introduction to Oracle Linux](./intro/intro.md): New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.   
 
-<table width="1400">
+<table width="1300">
    <colgroup>
-<col width="700">
-<col width="700">
+<col width="650">
+<col width="650">
 </colgroup>
    <thead>
    </thead>
