@@ -12,9 +12,9 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 - [Introduction to Oracle Linux](./intro/intro.md): New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.   
 
 <table width="1300">
-   <colgroup>
-<col width="650">
-<col width="650">
+<colgroup>
+   <col width="650">
+   <col width="650">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -44,14 +44,16 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 <br>
    
 ![](../common/images/OL-page-install.png)
+   
+- [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process.
 
-<table width="1200">
-   <tr>
-      <td colspan="2"valign="top">&#8226 <a href="./inst_boot/inst_boot.md">Installation and Boot Process:  </a>This page focuses on the installation and boot process for Oracle Linux.<br><br>
-      </td>
-   </tr>
+<table width="1300">
+<colgroup>
+   <col width="650">
+   <col width="650">
+</colgroup>
       <tr>   
-         <td width="600"valign="top"><b>Learn about these topics:</b>
+         <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Oracle Linux installation</li>
                <li>Create an Oracle Linux instance on Oracle Cloud Infrastructure</li>
@@ -65,7 +67,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
+         <td valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Manage the boot kernel</li>
                <li>Localize your installation</li>
