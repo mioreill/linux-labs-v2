@@ -11,7 +11,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Introduction to Oracle Linux](./intro/intro.md): New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.   
 
-<table width="1300">
+<table>
 <colgroup>
    <col width="650">
    <col width="650">
@@ -59,13 +59,8 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Create an Oracle Linux instance on Oracle Cloud Infrastructure</li>
                <li>The BIOS firmware bootloader process</li>
                <li>Unified Extensible Firmware Interface (UEFI)</li>
-               <li>GRUB2 Bootloader and configuring systemd services</li>
-               <li>Password aging and su</li>
-               <li>FTP configuration</li>
-               <li>Using vim</li>
-               <li>LEAPP upgrades</li>
-               <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
-            </ul>
+               <li>GRUB2 bootloader and configuring systemd services</li>
+               </ul>
          </td>
          <td valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
@@ -101,7 +96,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Password aging and su</li>
                <li>FTP configuration</li>
                <li>Using vim</li>
-               <li>LEAPP upgrades</li>
+               <li>Leapp upgrades</li>
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
@@ -113,15 +108,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>NGINX</li>
                <li>LEAPP</li>
                <li>Control groups and SELinux</li>
-               <li>reeIPA and Keycloak</li>
+               <li>FreeIPA and Keycloak</li>
             </ul>
          </td>
      </tr>
 </table>   
-
-- [Administration](./admin/admin.md): This page focuses on common administration tasks that you can perform on Oracle Linux. Learn how to configure the system date and time, automate tasks with cron, anacron, at, and batch, dynamically load and unload kernel modules, configure users and groups, explore the proc and sysfs file systems to view and configure system hardware and system processes, password aging and su, FTP configuration, using vim, upgrades with LEAPP, control groups, SELinux, pluggable authentication modules (PAM), and udev. Hands-on lab exercises cover administration of users and groups, crony, crontab, tmux, postfix, STARTTLS for postfix, NGINX, LEAPP, control groups, SELinux, FreeIPA and Keycloak.
-   
----
+<br>
+<br>
    
 ![](../common/images/OL-page-monitor.png)
 
