@@ -271,7 +271,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ![](../common/images/OL-page-storage.png)
    
 - [Storage Management](./stor_mgmt/stor_mgmt.md): This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.
-- 
+
 <table width="1100">
 <colgroup>
    <col width="550">
@@ -338,13 +338,14 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 <br>
    
 ![](../common/images/OL-page-howto.png)
+   
 <table width="1100">
 <colgroup>
    <col width="550">
    <col width="550">
 </colgroup>
       <tr>
-         <td valign="top">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
+         <td width="600"valign="top">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
          <td><b>Learn about these topics:</b>
             <ul>
                <li>How to file a service request</li>
