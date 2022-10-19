@@ -13,8 +13,8 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table>
 <colgroup>
-   <col width="650">
-   <col width="650">
+   <col width="50%">
+   <col width="50%">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
