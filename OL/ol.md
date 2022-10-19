@@ -12,15 +12,11 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 - [Introduction to Oracle Linux](./intro/intro.md): New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.   
 
 <table width="1200">
-   <colgroup>
-<col width="50%" />
-<col width="50%" />
-   </colgroup>
    <thead>
    </thead>
    <tbody>
       <tr>   
-         <td valign="top"><b>Learn about these topics:</b>
+         <td width="600";valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Shell and Command Line</li>
                <li>Files and Directories</li>
@@ -36,7 +32,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Remote access using SSH</li>
             </ul>
          </td>
-         <td valign="top"><b>Practice the following with these tutorials:</b>
+         <td width="600"valign="top"><b>Practice the following with these tutorials:</b>
             <ul>
                <li>Introduction to Oracle Linux: Shell and Command line</li>
             </ul>
