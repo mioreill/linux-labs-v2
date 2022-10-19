@@ -1,5 +1,6 @@
 
 # Welcome to Oracle Linux Virtualization Manager Track
+
 ![](../common/images/OLVM-1200x200-banner.png)
 ---
 This track contains videos to facilitate your usage of the technologies and tools used by Oracle Linux Virtualization Manager. Oracle Linux Virtualization Manager is an open-source distributed server virtualization solution, easily deployed to configure, monitor, and manage an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance and support from Oracle.
@@ -48,4 +49,25 @@ The following content will introduce you to Oracle Linux Virtualization Manager 
 
 [![](../common/images/drolvm_tmp.png)](https://youtu.be/0VSo7ZGIdo8)
 
+### Oracle Enterprise manager for Oracle Linux Virtualization Manager Videos
+The following content will introduce you to Cloud Administration of the Oracle Linux Virtualization Manager with Oracle Enterprise Manager 13c Cloud Control.
+
+[![](../common/images/mon_olvm_oem_tut.png)](https://youtu.be/834PviF4kV0)
+[![](../common/images/reg_olvm_oem_tut.png)](https://youtu.be/nyMSJKFN4HU)
+[![](../common/images/con_met_ext_olvm_tut.png)](https://youtu.be/lyPtzCuEDcQ)
+[![](../common/images/crea_inc_rul_olvm_tut.png)](https://youtu.be/OMp6WoDxsqU)
+
+---
+## Quiz
+Test your skills on what you have learned with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:CMMO0UH">Oracle Linux Virtualization Manager Track Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
+
+---
 #### [Return to Oracle Linux Training Station](../README.md)

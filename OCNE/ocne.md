@@ -1,5 +1,6 @@
 
 # Welcome to Oracle Cloud Native Environment Track <a name="ocne"></a>
+
 ![](../common/images/OCNE-banner.jpg)
 ---
 This track contains videos to facilitate your usage of the technologies, software and tools used by Oracle to develop microservices-based applications that can be deployed in environments that support open standards and specifications.
@@ -40,14 +41,17 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/deployocne_lab.png)](https://luna.oracle.com/lab/d18fe294-efb5-4498-9e7b-d5cc724d8619)
 [![](../common/images/glusterocne_lab.png)](https://luna.oracle.com/lab/5455954d-142c-4801-9f34-5946ad19573d)
 [![](../common/images/compactocne_lab.png)](https://luna.oracle.com/lab/c1bf32f7-7809-4355-bf83-d3f46797dd02)
-[![](../common/images/loadbalocne_lab.png)](https://luna.oracle.com/lab/5571f277-3eb9-435f-b3b3-fe421fb9747e)
+[![](../common/images/oci-ccm_lab.png)](https://luna.oracle.com/lab/5571f277-3eb9-435f-b3b3-fe421fb9747e)
+[![](../common/images/ocne_extlb_lab.png)](https://luna.oracle.com/lab/be8d99fc-44c3-4062-a3c3-95e982243ccf)
+[![](../common/images/ocne_intlb_lab.png)](https://luna.oracle.com/lab/15c6f5a7-9fec-4946-bb42-92dd41310fdf)
+[![](../common/images/ocne_metlb_lab.png)](https://luna.oracle.com/lab/d931637d-4e6b-4a46-ba17-810a942c4309)
+[![](../common/images/verrazzano_lab.png)](https://luna.oracle.com/lab/8a6bf419-7ef9-4be1-a679-680b03191011)
+[![](../common/images/ocne_scale_lab.png)](https://luna.oracle.com/lab/6c9e4d88-27e7-43bd-9366-0693fb8e4d3a)
 
-### Installation Tutorials
+### Installation Tutorial
 Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
 
-[![](../common/images/haocne_tut.png)](https://docs.oracle.com/en/learn/ocne-install-ha/)
 [![](../common/images/operatorlcocne_tut.png)](https://docs.oracle.com/en/learn/ocne-olm/)
-[![](../common/images/scaleocne_tut.png)](https://docs.oracle.com/en/learn/ocne-scale/)
 
 ### Kubernetes Videos
 An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
@@ -103,12 +107,29 @@ The following videos will introduce you to the role of Istio in supporting the m
 [![](../common/images/istioeg_tmp.png)](https://youtu.be/MHKc4hfszUI)
 [![](../common/images/istiort_tmp.png)](https://youtu.be/HDagk09TayQ)
 
-### Istio Tutorial
-Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
+### Istio Hands On Lab
+Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
-[![](../common/images/istiosidecarocne_tut.png)](https://docs.oracle.com/en/learn/ocne-sidecars/)
+[![](../common/images/istio_sidecar.png)](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
 
-### Microservices Tech Preview
+---
+## Quiz
+Test your skills on what you have learned so far with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DWXQQN7">Oracle Cloud Native Environment Track Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
+
+---
+   
+   
+
+![](../common/images/OCNE-techprev-banner-V2.png)
+---
 Oracle is actively investigating new microservices technologies permitting you to do research and development. The following videos describe configurations that leverage these technologies intended for pre-production systems.
 
 #### Helm Videos
@@ -132,5 +153,19 @@ Implemented by Dev-Ops teams to collect metrics in their cloud native environmen
 The following video will introduce Grafana, cover its installation, and demonstrate its configuration through the browser user interface.
 
 [![](../common/images/grafanaocne_tmp.png)](https://youtu.be/x6nloqYg-4w)
+
+---
+## Quiz
+Test your skills on your knowledge of the Tech Preview content you have watched with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:31YKJS">Oracle Cloud Native Environment Tech Preview Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
+
+---
 
 #### [Return to Oracle Linux Training Station](../README.md)
