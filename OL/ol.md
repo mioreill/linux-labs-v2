@@ -78,19 +78,20 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
      </tr>
 </table>  
-
-- [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process. Learn how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the BIOS firmware bootloader process, Unified Extensible Firmware Interface (UEFI), GRUB2 Bootloader, and how to configure different systemd services to start at boot time. Hands-on lab exercises cover how to manage the boot kernel, how to localize your installation, how to use sysctl, /proc, /sys, and /etc/sysconfig, how to use and manage systemd target units, and how to switch a CentOS 8 instance to Oracle Linux 8.
-   
+<br>
+<br>
    
 ![](../common/images/OL-page-admin.png)
+   
+- [Administration](./admin/admin.md): This page focuses on common administration tasks that you can perform on Oracle Linux. 
 
-   <table width="1200">
-      <tr>
-         <td colspan="2"valign="top">&#8226 <a href="./admin/admin.md">Administration:  </a>This page focuses on common administration tasks that you can perform on Oracle Linux.<br><br>
-         </td>
-      </tr>
+<table width="1100">
+<colgroup>
+   <col width="550">
+   <col width="550">
+</colgroup>
       <tr>   
-         <td width="600"valign="top"><b>Learn about these topics:</b>
+         <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Configure the system date and time</li>
                <li>Automate tasks with cron, anacron, at, and batch</li>
@@ -104,7 +105,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
+         <td valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Users and groups administration</li>
                <li>Crony and crontab</li>
