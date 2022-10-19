@@ -339,13 +339,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-howto.png)
    
+- [Oracle Linux How-To](./howto/howto.md): This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
+   
 <table width="1100">
-<colgroup>
-   <col width="550">
-   <col width="550">
-</colgroup>
       <tr>
-         <td width="600"valign="top">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
          <td><b>Learn about these topics:</b>
             <ul>
                <li>How to file a service request</li>
@@ -358,7 +355,8 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
      </tr>
 </table>    
-   
+<br>
+<br>   
 
 ---
    
