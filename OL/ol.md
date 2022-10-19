@@ -20,7 +20,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    </thead>
    <tbody>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Shell and Command Line</li>
                <li>Files and Directories</li>
@@ -36,7 +36,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Remote access using SSH</li>
             </ul>
          </td>
-         <td width="600";valign="top"><b>Practice the following with these tutorials:</b>
+         <td valign="top"><b>Practice the following with these tutorials:</b>
             <ul>
                <li>Introduction to Oracle Linux: Shell and Command line</li>
             </ul>
