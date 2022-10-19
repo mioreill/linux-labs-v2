@@ -20,8 +20,8 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1400">
    <colgroup>
-<col width="50%" />
-<col width="50%" />
+<col width="700">
+<col width="700">
 </colgroup>
    <thead>
    </thead>
