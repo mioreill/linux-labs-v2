@@ -16,9 +16,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 <col width="650">
 <col width="650">
 </colgroup>
-   <thead>
-   </thead>
-   <tbody>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
@@ -42,7 +39,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
             </ul>
          </td>
       </tr>
-   </tbody>
 </table>  
 <br>
 <br>
