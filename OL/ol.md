@@ -46,10 +46,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process.
 
-<table width="1300">
+<table width="1200">
 <colgroup>
-   <col width="650">
-   <col width="650">
+   <col width="600">
+   <col width="600">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -78,10 +78,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Administration](./admin/admin.md): This page focuses on common administration tasks that you can perform on Oracle Linux. 
 
-<table width="1100">
+<table width="1200">
 <colgroup>
-   <col width="550">
-   <col width="550">
+   <col width="600">
+   <col width="600">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -117,10 +117,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Monitoring and Logging](./mon_log/mon_log.md): This page focuses on typical monitoring and logging tasks performed on a Linux system. 
 
-<table width="1100">
+<table width="1200">
 <colgroup>
-   <col width="550">
-   <col width="550">
+   <col width="600">
+   <col width="600">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -147,10 +147,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Networking](./network/network.md): This page focuses on how to securely connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.
 
-<table width="1100">
+<table width="1200">
 <colgroup>
-   <col width="550">
-   <col width="550">
+   <col width="600">
+   <col width="600">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -178,10 +178,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Package Management](./pkg_mgmt/pkg_mgmt.md): This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM.
 
-<table width="1100">
+<table width="1200">
 <colgroup>
-   <col width="550">
-   <col width="550">
+   <col width="600">
+   <col width="600">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -209,10 +209,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Oracle Ksplice](./ksplice/ksplice.md): This page focuses on installing, configuring and using Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.
 
-<table width="1100">
+<table width="1200">
 <colgroup>
-   <col width="550">
-   <col width="550">
+   <col width="600">
+   <col width="600">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -236,10 +236,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Remote Management](./rem_mgmt/rem_mgmt.md): This page focuses on establishing secure connections to remote Oracle Linux systems. With secure connections, all  traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.
 
-<table width="1100">
+<table width="1200">
 <colgroup>
-   <col width="550">
-   <col width="550">
+   <col width="600">
+   <col width="600">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -264,10 +264,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Storage Management](./stor_mgmt/stor_mgmt.md): This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.
 
-<table width="1100">
+<table width="1200">
 <colgroup>
-   <col width="550">
-   <col width="550">
+   <col width="600">
+   <col width="600">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -299,10 +299,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Virtualization](./virt/virt.md): This page focuses on Kernel-based Virtual Machine (KVM), Oracle VM VirtualBox, Containers, Podman, chroot, and Kubernetes. It covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux.
 
-<table width="1100">
+<table width="1200">
 <colgroup>
-   <col width="550">
-   <col width="550">
+   <col width="600">
+   <col width="600">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
@@ -331,9 +331,9 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 - [Oracle Linux How-To](./howto/howto.md): This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
    
-<table width="1100">
+<table width="1200">
 <colgroup>
-   <col width="1100">
+   <col width="1200">
 </colgroup>
       <tr>
          <td><b>Learn about these topics:</b>
