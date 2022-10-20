@@ -7,11 +7,7 @@
         border: 1px solid red;
         border-collapse: collapse;
       }
-      td {
-        width: 50%
-        border-collapse: collapse;
-      }
-      
+            
     </style>
   </head>
   <body>
@@ -23,10 +19,6 @@
         <tr>
           <td>Apple</td>
           <td>25</td>
-        </tr>
-        <tr>
-          <td>Banana</td>
-          <td>18</td>
         </tr>
       </tbody>
     </table>
