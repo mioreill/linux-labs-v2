@@ -11,16 +11,18 @@
   <body>
     <table>
       <thead>
-        <th style="width:200px">Name</th>
+        <th colspan="2";style="width:400px">Name</th>
         <th>Quantity</th>
       </thead>
       <tbody>
         <tr>
           <td>Apple</td>
+          <td>cores</td>
           <td>25</td>
         </tr>
         <tr>
           <td>Banana</td>
+          <td>cores</td>
           <td>18</td>
         </tr>
       </tbody>
