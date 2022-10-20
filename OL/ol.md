@@ -2,28 +2,30 @@
 <html lang="en">
   <head>
     <style>
-      table, th, td {
+      table, th, {
         width: 100%;
         border: 1px solid red;
         border-collapse: collapse;
       }
+      td {
+        width: 50%
+        border-collapse: collapse;
+      }
+      
     </style>
   </head>
   <body>
     <table>
       <thead>
-        <th style="width:400px">Name</th>
-        <th colspan="2">Quantity</th>
+        <th colspan="2">Fruit</th>
       </thead>
       <tbody>
         <tr>
           <td>Apple</td>
-          <td>cores</td>
           <td>25</td>
         </tr>
         <tr>
           <td>Banana</td>
-          <td>cores</td>
           <td>18</td>
         </tr>
       </tbody>
