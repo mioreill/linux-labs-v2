@@ -17,8 +17,8 @@
       </thead>
       <tbody>
         <tr>
-          <td>Apple</td>
-          <td>25</td>
+          <td style="width:50%">Apple</td>
+          <td style="width:50%">25</td>
         </tr>
       </tbody>
     </table>
