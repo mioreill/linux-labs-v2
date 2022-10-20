@@ -112,7 +112,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
      </tr>
 </table>   
 <br>
-<br>
    
 ![](../common/images/OL-page-monitor.png)
    
@@ -142,7 +141,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
      </tr>
 </table>   
-<br>
 <br>
    
 ![](../common/images/OL-page-network.png)
@@ -175,7 +173,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
      </tr>
 </table>    
 <br>
-<br>
    
 ![](../common/images/OL-page-package.png)
    
@@ -207,7 +204,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
      </tr>
 </table> 
 <br>
-<br>
    
 ![](../common/images/OL-page-ksplice.png)
    
@@ -234,7 +230,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
      </tr>
 </table>    
-<br>
 <br>
    
 ![](../common/images/OL-page-remote.png)
@@ -263,7 +258,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
      </tr>
 </table> 
-<br>
 <br>
    
 ![](../common/images/OL-page-storage.png)
@@ -300,7 +294,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
      </tr>
 </table>    
 <br>
-<br>
    
 ![](../common/images/OL-page-virtual.png)
    
@@ -333,7 +326,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
      </tr>
 </table>    
 <br>
-<br>
    
 ![](../common/images/OL-page-howto.png)
    
@@ -356,8 +348,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
      </tr>
 </table>    
-<br>
-<br>   
+<br>  
 
 ---
    
