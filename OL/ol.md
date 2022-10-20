@@ -3,6 +3,7 @@
   <head>
     <style>
       table, th, td {
+        width: 100%;
         border: 1px solid red;
         border-collapse: collapse;
       }
@@ -11,8 +12,8 @@
   <body>
     <table>
       <thead>
-        <th colspan="2";style="width:400px">Name</th>
-        <th>Quantity</th>
+        <th style="width:400px">Name</th>
+        <th colspan="2">Quantity</th>
       </thead>
       <tbody>
         <tr>
