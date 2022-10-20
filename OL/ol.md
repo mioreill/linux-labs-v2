@@ -4,7 +4,7 @@
     <style>
       table, th, {
         width: 100%;
-        border: 1px solid red;
+        border: 1px solid grey;
         border-collapse: collapse;
       }            
     </style>
@@ -17,7 +17,7 @@
       <tbody>
         <tr>
           <td style="width:50%">Apple</td>
-          <td style="width:50%">25</td>
+          <td>25</td>
         </tr>
       </tbody>
     </table>
