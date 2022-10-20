@@ -4,7 +4,7 @@
     <style>
       table, th, {
         width: 100%;
-        border: 1px solid grey;
+        border: 1px solid red;
         border-collapse: collapse;
       }            
     </style>
