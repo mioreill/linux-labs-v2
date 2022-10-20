@@ -1,4 +1,4 @@
-
+<head>
     <style>
       table, th, td {
         width: 100%;
@@ -10,6 +10,7 @@
         border-collapse: collapse;
       }
     </style>
+</head>
     <table>
       <thead>
         <th colspan="2">Name</th>
