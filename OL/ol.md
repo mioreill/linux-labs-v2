@@ -1,29 +1,3 @@
-<head>
-    <style>
-      table, th, td {
-        width: 100%;
-        text-align: left;
-        vertical-align: top;
-        padding-top: 10px;
-        padding-left: 10px;
-        border: 1px solid red;
-        border-collapse: collapse;
-      }
-    </style>
-</head>
-    <table>
-      <thead>
-        <th colspan="2">Name</th>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="width:50%">Apple</td>
-          <td>25</td>
-        </tr>
-      </tbody>
-    </table>
-
-
 
 # Welcome to Oracle Linux Track
 
