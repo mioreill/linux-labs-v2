@@ -4,16 +4,21 @@
     <style>
       table, th, td {
         width: 100%;
+        height: 50px;
+        text-align: left;
+        vertical-align: top;
+        padding-top: 10px;
+        padding-left: 10px;
         border: 1px solid red;
         border-collapse: collapse;
-      }            
+      }
     </style>
   </head>
   <body>
     <table>
       <thead>
-        <th colspan="2">Fruit</th>
-      </thead>
+        <th colspan="2">Name</th>
+        </thead>
       <tbody>
         <tr>
           <td style="width:50%">Apple</td>
