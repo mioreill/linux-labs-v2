@@ -1,4 +1,4 @@
-<head>
+
     <style>
       table, th, td {
         width: 100%;
@@ -10,12 +10,10 @@
         border-collapse: collapse;
       }
     </style>
-  </head>
-  <body>
     <table>
       <thead>
         <th colspan="2">Name</th>
-        </thead>
+      </thead>
       <tbody>
         <tr>
           <td style="width:50%">Apple</td>
@@ -23,7 +21,6 @@
         </tr>
       </tbody>
     </table>
-  </body>
 
 
 
