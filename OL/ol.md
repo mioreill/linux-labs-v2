@@ -1,3 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      table, th, td {
+        border: 1px solid red;
+        border-collapse: collapse;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <thead>
+        <th style="width:200px">Name</th>
+        <th>Quantity</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Apple</td>
+          <td>25</td>
+        </tr>
+        <tr>
+          <td>Banana</td>
+          <td>18</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+
 
 # Welcome to Oracle Linux Track
 
