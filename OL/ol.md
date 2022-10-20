@@ -102,9 +102,9 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
             <ul>
                <li>Users and groups administration</li>
                <li>Crony and crontab</li>
-               <li>tmux, postfix and STARTTLS for postfix</li>
+               <li>Tmux, postfix and STARTTLS for postfix</li>
                <li>NGINX</li>
-               <li>LEAPP</li>
+               <li>Leapp</li>
                <li>Control groups and SELinux</li>
                <li>FreeIPA and Keycloak</li>
             </ul>
@@ -127,8 +127,8 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
             <ul>
                <li>Monitor system performance</li>
                <li>Review system logs</li>
-               <li>iostat, mpstat, vmstat, top</li>
-               <li>netstat, rsyslog, logwatch, journald</li>
+               <li>Iostat, mpstat, vmstat, top</li>
+               <li>Netstat, rsyslog, logwatch, journald</li>
                <li>Linux auditing with auditd</li>
             </ul>
          </td>
@@ -156,16 +156,16 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Network configuration files</li>
-               <li>firewalld</li>
-               <li>nftables</li>
-               <li>nmcli and IP utilities</li>
+               <li>Firewalld</li>
+               <li>Nftables</li>
+               <li>Network Manager CLI and IP utilities</li>
                <li>VLANs</li>
                <li>Network bonding</li>
             </ul>
          </td>
          <td valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
-               <li>nmcli and IP utilities</li>
+               <li>Network Manager CLI and IP utilities</li>
                <li>VLANs</li>
                <li>Network interface bonding</li>
             </ul>
@@ -191,7 +191,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Add extra packages for Enterprise Linux (EPEL) repository</li>
                <li>Mounting filesystems</li>
                <li>/etc/fstab file</li>
-               <li>swap space</li>
+               <li>Swap space</li>
                <li>NFS server, export and shares</li>
             </ul>
          </td>
@@ -272,18 +272,18 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
-               <li>fdisk</li>
-               <li>ext, XFS, BTRFS and GlusterFS filesystems</li>
+               <li>Fdisk</li>
+               <li>Ext, XFS, BTRFS and GlusterFS filesystems</li>
                <li>Logical volume management (LVM)</li>
                <li>Mounting filesystems</li>
                <li>/etc/fstab file</li>
-               <li>swap space</li>
+               <li>Swap space</li>
                <li>NFS server, export and shares</li>
             </ul>
          </td>
          <td valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
-               <li>fdisk, mkfs, mount, swapon, parted, autofs</li>
+               <li>Fdisk, mkfs, mount, swapon, parted, autofs</li>
                <li>NFS</li>
                <li>Network-bound disk encryption</li>
                <li>LVM, Gluster storage, BTRFS, RAID</li>
@@ -311,7 +311,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Oracle VM VirtualBox</li>
                <li>Containers</li>
                <li>Podman</li>
-               <li>chroot</li>
+               <li>Chroot</li>
                <li>Kubernetes</li>
             </ul>
          </td>
