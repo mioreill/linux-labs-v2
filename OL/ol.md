@@ -25,7 +25,7 @@
       </tbody>
     </table>
   </body>
-</html>
+
 
 
 # Welcome to Oracle Linux Track
