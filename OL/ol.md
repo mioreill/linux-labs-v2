@@ -2,7 +2,6 @@
     <style>
       table, th, td {
         width: 100%;
-        height: 50px;
         text-align: left;
         vertical-align: top;
         padding-top: 10px;
