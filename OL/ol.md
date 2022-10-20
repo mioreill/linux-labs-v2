@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <style>
-      table, th, {
+      table, th, td {
         width: 100%;
         border: 1px solid red;
         border-collapse: collapse;
